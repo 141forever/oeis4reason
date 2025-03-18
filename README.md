@@ -1,2 +1,2 @@
 # oeis4reason
-This is the repository for the paper
+This is the repository for the paper **Code-Driven Inductive Synthesis: Enhancing Reasoning Abilities of Large Language Models with Sequences**.
